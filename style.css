@@ -1,0 +1,31 @@
+body{
+    background: #000;
+    color: white;
+}
+#div1{
+    width: 60%;
+}
+#div1 img{
+    border-radius: 50%;
+}
+span{
+    color: darkmagenta;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-style: oblique;
+}
+#div1 h2.g{
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 25px;
+    background: rgb(44, 4, 123);
+    width: 60%;
+}
+header{
+    background: #2714f8;
+}
+header ul li a {
+    color:white ;
+    /* display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr ; */
+}
